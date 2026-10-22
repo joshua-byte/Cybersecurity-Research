@@ -10,7 +10,7 @@ Studies traffic-disorder-aware routing and its potential to improve network robu
 ### 2. LambdaShield
 A graph-based simulator for modelling network attack propagation and evaluating network resilience.
 
-### 3. HNN
+### 3. HNN Trajectory Forecasting
 A graph-based forecasting experiment comparing infection-rate predictions against baseline models.
 
 
