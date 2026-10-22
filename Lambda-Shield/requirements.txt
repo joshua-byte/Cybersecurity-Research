@@ -1,0 +1,7 @@
+networkx
+numpy
+matplotlib
+streamlit
+plotly
+reportlab
+scipy
