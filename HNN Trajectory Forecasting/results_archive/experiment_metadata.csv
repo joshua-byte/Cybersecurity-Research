@@ -1,0 +1,21 @@
+Parameter,Value
+network_nodes,81306
+network_edges,1342296
+simulation_steps,300
+lambda_history_shape,"(301, 81306)"
+infection_time_shape,"(81306,)"
+sampled_trajectories,5000
+trajectory_length,20
+observed_steps,10
+forecast_steps,10
+train_test_ratio,80:20
+evaluation_seeds,"7, 21, 42"
+independent_simulation_runs,1
+data_type,Simulated infection-rate trajectories
+network_description,Twitter network topology
+arima_order,"(1, 0, 0)"
+arima_trend,constant
+arima_failures_seed_7,0
+arima_failures_seed_21,0
+arima_failures_seed_42,0
+important_limitation,Three random train/test splits from one simulation pool; not independent simulation realizations
